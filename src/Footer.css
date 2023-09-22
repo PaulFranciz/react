@@ -1,0 +1,24 @@
+.footer-links {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  border-radius: 5px;
+}
+
+.social-media-image-two {
+  width: 25px;
+  fill: #918e9b;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 1.5em;
+  background-color: #0d1422;
+  width: 317px;
+  margin: 0 auto;
+  padding: 0.5em 0;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+}
